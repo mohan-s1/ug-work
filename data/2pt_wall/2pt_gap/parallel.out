@@ -1,0 +1,39 @@
+Starting! 2024-04-03 19:14:54.920088
+Duration of Part One: 0:00:08.286619
+/sfs/weka/scratch/mjs7eek/pib/wall_2pt/2pt_gap/corr_parallel.py:67: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if over[0] <= nn:
+/sfs/weka/scratch/mjs7eek/pib/wall_2pt/2pt_gap/corr_parallel.py:67: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if over[0] <= nn:
+/sfs/weka/scratch/mjs7eek/pib/wall_2pt/2pt_gap/corr_parallel.py:67: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if over[0] <= nn:
+/sfs/weka/scratch/mjs7eek/pib/wall_2pt/2pt_gap/corr_parallel.py:67: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if over[0] <= nn:
+/sfs/weka/scratch/mjs7eek/pib/wall_2pt/2pt_gap/corr_parallel.py:67: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if over[0] <= nn:
+/sfs/weka/scratch/mjs7eek/pib/wall_2pt/2pt_gap/corr_parallel.py:67: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if over[0] <= nn:
+/sfs/weka/scratch/mjs7eek/pib/wall_2pt/2pt_gap/corr_parallel.py:67: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if over[0] <= nn:
+/sfs/weka/scratch/mjs7eek/pib/wall_2pt/2pt_gap/corr_parallel.py:67: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if over[0] <= nn:
+/sfs/weka/scratch/mjs7eek/pib/wall_2pt/2pt_gap/corr_parallel.py:67: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if over[0] <= nn:
+/sfs/weka/scratch/mjs7eek/pib/wall_2pt/2pt_gap/corr_parallel.py:67: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if over[0] <= nn:
+At 1750K, [] functions are significant
+At 400K, [] functions are significant
+At 1000K, [] functions are significant
+At 3000K, [] functions are significant
+At 1500K, [] functions are significant
+At 4500K, [] functions are significant
+At 100K, [] functions are significant
+At 2000K, [] functions are significant
+At 2500K, [] functions are significant
+At 200K, [] functions are significant
+At 750K, [] functions are significant
+At 3500K, [] functions are significant
+At 600K, [] functions are significant
+At 4000K, [] functions are significant
+At 1250K, [] functions are significant
+At 5000K, [] functions are significant
+Duration of Part Two: 2:54:23.075669
